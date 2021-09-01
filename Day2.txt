@@ -1,0 +1,10 @@
+
+typeof(1)-  Number
+typeof(1.1)- Number
+typeof('1.1')- string
+typeof(true)- Boolean
+typeof(null)- Object
+typeof(undefined)- undefined
+typeof([])-  Object
+typeof({}) -  Object
+typeof(NaN)- Number
